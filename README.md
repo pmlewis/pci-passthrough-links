@@ -6,7 +6,7 @@
 
 [High Level Walkthrough on setting up PCI passthrough](https://www.pugetsystems.com/labs/articles/Multiheaded-NVIDIA-Gaming-using-Ubuntu-14-04-KVM-585) - this was mostly what I followed, as it was pretty general and had useful links back to the Arch Wiki. This was mostly for Ubuntu, but could be followed with other distros.
 
-[Arch forum post on setting up QEMU w/ KVM and PCI passthrough](https://bbs.archlinux.org/viewtopic.php?id=162768]
+[Arch forum post on setting up QEMU w/ KVM and PCI passthrough](https://bbs.archlinux.org/viewtopic.php?id=162768)
 
 [Post in the above mentioned thread that details some success](https://bbs.archlinux.org/viewtopic.php?pid=1313007#p1313007)
 
