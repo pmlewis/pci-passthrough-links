@@ -17,3 +17,5 @@
 [KVM VirtIO drivers for Windows VMs](http://www.linux-kvm.org/page/WindowsGuestDrivers/Download_Drivers)
 
 [QEMU Wiki page on starting a VM with different kinds of media](http://wiki.qemu.org/download/qemu-doc.html#host_005fdrives)
+
+[Arch Wiki on Synergy](https://wiki.archlinux.org/index.php/Synergy) - You can use Synergy to share a mouse and keyboard between your host and client VM in the case of PCI passthrough.
